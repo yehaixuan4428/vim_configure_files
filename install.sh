@@ -1,5 +1,6 @@
 #!/bin/sh
 
+rm ~/.vimrc
 ln -s .vimrc ~/.vimrc
 git submodule update --init --recursive
 cd my_plugins/YouCompleteMe
