@@ -1,39 +1,39 @@
 [submodule ".vim_runtime/my_plugins/auto-pairs"]
-	path = .vim_runtime/my_plugins/auto-pairs
+	path = my_plugins/auto-pairs
 	url = https://github.com/jiangmiao/auto-pairs.git
 [submodule ".vim_runtime/my_plugins/vim-latex"]
-	path = .vim_runtime/my_plugins/vim-latex
+	path = my_plugins/vim-latex
 	url = https://github.com/vim-latex/vim-latex.git
 [submodule ".vim_runtime/my_plugins/lightline.vim"]
-	path = .vim_runtime/my_plugins/lightline.vim
+	path = my_plugins/lightline.vim
 	url = https://github.com/itchyny/lightline.vim.git
 [submodule ".vim_runtime/my_plugins/YouCompleteMe"]
-	path = .vim_runtime/my_plugins/YouCompleteMe
+	path = my_plugins/YouCompleteMe
 	url = https://github.com/ycm-core/YouCompleteMe.git
 [submodule ".vim_runtime/my_plugins/nerdcommenter"]
-	path = .vim_runtime/my_plugins/nerdcommenter
+	path = my_plugins/nerdcommenter
 	url = https://github.com/preservim/nerdcommenter.git
 [submodule ".vim_runtime/my_plugins/vim-togglelist"]
-	path = .vim_runtime/my_plugins/vim-togglelist
+	path = my_plugins/vim-togglelist
 	url = https://github.com/milkypostman/vim-togglelist.git
 [submodule ".vim_runtime/my_plugins/ultisnips"]
-	path = .vim_runtime/my_plugins/ultisnips
+	path = my_plugins/ultisnips
 	url = https://github.com/SirVer/ultisnips.git
 [submodule ".vim_runtime/my_plugins/supertab"]
-	path = .vim_runtime/my_plugins/supertab
+	path = my_plugins/supertab
 	url = https://github.com/ervandew/supertab.git
 [submodule ".vim_runtime/my_plugins/nerdtree"]
-	path = .vim_runtime/my_plugins/nerdtree
+	path = my_plugins/nerdtree
 	url = https://github.com/preservim/nerdtree.git
 [submodule ".vim_runtime/my_plugins/gruvbox"]
-	path = .vim_runtime/my_plugins/gruvbox
+	path = my_plugins/gruvbox
 	url = https://github.com/morhetz/gruvbox.git
 [submodule ".vim_runtime/my_plugins/vim-snippets"]
-	path = .vim_runtime/my_plugins/vim-snippets
+	path = my_plugins/vim-snippets
 	url = https://github.com/honza/vim-snippets.git
 [submodule ".vim_runtime/my_plugins/vim-eunuch"]
-	path = .vim_runtime/my_plugins/vim-eunuch
+	path = my_plugins/vim-eunuch
 	url = https://github.com/tpope/vim-eunuch.git
 [submodule ".vim_runtime/my_plugins/vim-easymotion"]
-	path = .vim_runtime/my_plugins/vim-easymotion
+	path = my_plugins/vim-easymotion
 	url = https://github.com/easymotion/vim-easymotion.git
