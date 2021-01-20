@@ -3,6 +3,7 @@ Based on https://github.com/amix/vimrc
 
 To use it, do:
 ```
-ln -s ~/.vim_runtime/.vimrc ~/.vimrc
-ln -s ~/.vim ~/.vim
+git clone https://github.com/yehaixuan4428/vim_configure_files.git ~/.vim_runtime
+./install.sh
 ```
+
