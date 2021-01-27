@@ -5,3 +5,4 @@
 #python install.py --clang-completer
 rm ~/.vimrc
 cat .vimrc > ~/.vimrc
+mkdir -p temp_dirs/undodir
