@@ -37,3 +37,6 @@
 [submodule ".vim_runtime/my_plugins/vim-easymotion"]
 	path = my_plugins/vim-easymotion
 	url = https://github.com/easymotion/vim-easymotion.git
+[submodule "my_plugins/vim-surround"]
+	path = my_plugins/vim-surround
+	url = https://github.com/tpope/vim-surround.git
